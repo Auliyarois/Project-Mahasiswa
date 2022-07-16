@@ -1,0 +1,6 @@
+D:\PRAKTIKUM SEMESTER 2\PEMROGRAMAN\responsi\project mahasiswa\project mahasiswa\bin\Debug\project mahasiswa.exe.config
+D:\PRAKTIKUM SEMESTER 2\PEMROGRAMAN\responsi\project mahasiswa\project mahasiswa\obj\Debug\project mahasiswa.csprojResolveAssemblyReference.cache
+D:\PRAKTIKUM SEMESTER 2\PEMROGRAMAN\responsi\project mahasiswa\project mahasiswa\bin\Debug\project mahasiswa.exe
+D:\PRAKTIKUM SEMESTER 2\PEMROGRAMAN\responsi\project mahasiswa\project mahasiswa\bin\Debug\project mahasiswa.pdb
+D:\PRAKTIKUM SEMESTER 2\PEMROGRAMAN\responsi\project mahasiswa\project mahasiswa\obj\Debug\project mahasiswa.exe
+D:\PRAKTIKUM SEMESTER 2\PEMROGRAMAN\responsi\project mahasiswa\project mahasiswa\obj\Debug\project mahasiswa.pdb
